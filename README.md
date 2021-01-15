@@ -18,7 +18,11 @@ If everything is done successfully now you can download the `.py` file in the re
 ## Configuring the serial port
 Open the `.py` file in any IDE and look for line 7 or this code `ser = serial.Serial("COM4", 115200) # change your serial port with COM4` and here you have changed your serial port and you may execute the code
 if you have done everything right you may be greeted with an interface like this 
+
 ![screen shot 1](/images/gui.PNG)
+
+or
+
 ![screen shot 2](/images/gui1.PNG)
 if you have to disconnect the Arduino in the middle of the process 
 
