@@ -24,8 +24,10 @@ if you have done everything right you may be greeted with an interface like this
 or
 
 ![screen shot 2](/images/gui1.PNG)
+
 if you have to disconnect the Arduino in the middle of the process 
 
+and that's it for today, see you soon!
 
 # Donate
 * PayPal -> balharav3@gmail.com
